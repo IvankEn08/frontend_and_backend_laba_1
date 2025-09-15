@@ -29,12 +29,12 @@ input, select, textarea, button {
 }
 
 button, [type="submit"] {
-  background: blue;
+  background: rgb(228, 43, 43);
   color: white;
   border: none;
   cursor: pointer;
 }
-.btn-primary { background: blue; }
+.btn-primary { background: #ea87f3; }
 .btn-secondary { background: white; color: black; }
 
 button:hover { filter: brightness(0.97); }
